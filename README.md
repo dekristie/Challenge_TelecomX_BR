@@ -13,7 +13,7 @@ Este repositório apresenta uma análise detalhada do fenômeno de *churn* (evas
 ## 🔗 Acesso Interativo
 
 - ▶️ **Acesse o notebook no Google Colab:**  
-  [Abrir TelecomX_BR.ipynb no Google Colab](https://colab.research.google.com/drive/1ZlG7mEKIRkR-V5drEN7kd2mNr5Lm57hT)
+  [Abrir TelecomX_BR.ipynb no Google Colab](https://colab.research.google.com/drive/1YbHUvrP1sV9MTZMtkGN85w8XUOnnQ_H_?usp=drive_link)
 
 ---
 
